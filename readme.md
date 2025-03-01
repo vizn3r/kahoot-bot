@@ -1,4 +1,4 @@
-# Kahoot Bot by ANEL
+# Kahoot Bot (probably not working, this is an old project)
 
 ## Game Pin
 
